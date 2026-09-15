@@ -10,6 +10,6 @@ int main() {
     area=l*b;
     perimeter=2*(l+b);
     printf("Area: %d\n",area);
-    printf("Perimeter: %d\n",perimeter);
+    printf("Difference: %d\n",perimeter);
     return 0;
 }
